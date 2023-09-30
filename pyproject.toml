@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "tifed"
+version = "0.1.0"
+description = ""
+authors = ["lucacolombo97 <luca97.colombo@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9, <3.12"
+ipykernel = "^6.25.2"
+sklearn-utils = "^0.0.15"
+joblib = "^1.3.2"
+keras-datasets = "^0.1.0"
+keras = "^2.14.0"
+pandas = "^2.1.1"
+seaborn = "^0.12.2"
+matplotlib = "^3.8.0"
+torch = "^2.0.1"
+tensorflow = "^2.14.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
