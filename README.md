@@ -36,3 +36,10 @@ The training is performed using the proposed TIFeD algorithm.
 
 ### Results
 The results are shown in the `Results.ipynb` notebooks which provide the plots shown in the paper.
+
+## Authors and Contacts
+If you have questions, suggestions or problems, feel free to open an Issue.
+You can contact us at:
+- [Luca Colombo](https://github.com/lucacolombo97): luca2.colombo@polimi.it
+- [Alessandro Falcetta](https://github.com/AlexMV12): alessandro.falcetta@polimi.it
+- Manuel Roveri: manuel.roveri@polimi.it
